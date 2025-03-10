@@ -3,7 +3,7 @@ Name : SAIGURUCHANDRAN
 
 Reg no : 212223240143
 
-Date of experiment : 12-08-2024
+Date of experiment : 07-03-2024
 
 ## Aim:
 To Write and execute ALP on fundamental arithmetic and logical operations
